@@ -1,3 +1,3 @@
 # Este archivo es un hijo
 
-print("hola")
+print("hola hijo")
